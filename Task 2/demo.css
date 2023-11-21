@@ -1,0 +1,26 @@
+body{
+    margin-left: 60%; 
+    background-image: url('bgpurple.png'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.container{
+    margin-top: 65px;
+    background: #b9e3f5;
+    border: 2px solid; 
+    border-radius: 10%; 
+    border-color: crimson; 
+    padding: 10px; 
+    box-shadow: 15px 15px #e25959; 
+    width:max-content; 
+}
+
+.txtlogin{
+    margin-left: 40%;
+}
+
+.button{
+    color: blue;
+}

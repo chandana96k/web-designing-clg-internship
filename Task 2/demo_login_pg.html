@@ -1,0 +1,44 @@
+<!DOCTYPE HTML> 
+<HTML>
+    <head>
+        <title>demo</title>
+        <link rel="stylesheet" href="demo.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <form action="myprogram.php"><!--redirects to php file when form is submitted-->
+                <div class="txtlogin">
+                    <h1><u>LOGIN</u></h1>
+                </div>
+                <br>
+                Enter your firstname:<Input type="text" Name="firstname" size="30" maxlength="5">
+                    <br><br>
+                Enter your lastname:<Input type="text" Name="lastname" size="30" maxlength="5">
+                    <br><br>
+                Enter your mobile no:<Input type="tel" Name="mobileno" size="30" maxlength="10">
+                    <br><br>
+                Enter your dob:<Input type="date" Name="date">
+                    <br><br>
+                Enter your gender:<br><Input type="radio" id="male" Name="gender" checked="yes">male<br>
+                                <Input type="radio" id="female" Name="gender">female<br>
+                                <Input type="radio" id="other" Name="gender" value="other">other<br>
+                    <br>
+                Select your hobbies:<br><Input type="checkbox" id="painting" Name="hobby">painting<br>
+                    <Input type="checkbox" id="singing" Name="hobby">singing<br>
+                    <Input type="checkbox" id="dancing" Name="hobby" value="other">dancing<br>
+                    <br>
+                Enter your email address:<input type="email" id="mail" name="email"><br><br>
+                Enter website:<input type="url" id="link" name="url"><br><br>
+                Enter password:<input type="password" id="pw" name="password">
+                                <div class="button">
+                                    <input type="reset">
+                                </div>
+                                    <input type="submit">
+                                
+                <br><br>
+            </form>
+        </div>
+    </body>
+
+</HTML>
