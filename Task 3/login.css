@@ -1,0 +1,44 @@
+body{
+    margin-top: 13%;
+    margin-left: 34%; 
+    background-image: url('bgpurple.png'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-attachment: fixed;
+}
+
+.container{
+    margin-top: 65px;
+    background: #525353;
+    border: 2px solid; 
+    border-radius: 10%; 
+    border-color: crimson; 
+    padding: 10px; 
+    box-shadow: 15px 15px #e92626; 
+    width:max-content; 
+}
+
+.text{
+    color: white;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.txtlogin{
+    margin-left: 40%;
+    color: antiquewhite;
+}
+
+.button {
+    background-color: rgb(251, 39, 39); 
+    border: black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .btnalign{
+    margin-left: 35%;
+  }

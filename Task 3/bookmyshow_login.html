@@ -1,0 +1,42 @@
+<!DOCTYPE HTML> 
+<HTML>
+    <head>
+        <title>demo</title>
+        <link rel="stylesheet" href="login.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <form action="myprogram.php"><!--redirects to php file when form is submitted-->
+                <div class="txtlogin">
+                    <h1><u>LOGIN</u></h1>
+                </div>
+                <br>
+                <div class="text">
+                Enter your firstname:<Input type="text" Name="firstname" size="30" maxlength="5">
+                    <br><br>
+                Enter your lastname:<Input type="text" Name="lastname" size="30" maxlength="5">
+                    <br><br>
+                Enter your mobile no:<Input type="tel" Name="mobileno" size="30" maxlength="10">
+                    <br><br>
+                Enter your dob:<Input type="date" Name="date">
+                    <br><br>
+                Enter your gender:<br><Input type="radio" id="male" Name="gender" checked="yes">male<br>
+                                <Input type="radio" id="female" Name="gender">female<br>
+                                <Input type="radio" id="other" Name="gender" value="other">other<br>
+                    <br>
+                Enter your email address:<input type="email" id="mail" name="email"><br><br>
+                Enter password:<input type="password" id="pw" name="password">
+                <br><br>
+                <div class="btnalign">
+                    <input type="reset" class="button" value="Reset">
+                    <input type="submit" class="button" value="Submit">
+                </div>
+                
+                <br><br>
+                </div>
+            </form>
+        </div>
+    </body>
+
+</HTML>
