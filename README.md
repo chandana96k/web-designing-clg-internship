@@ -17,4 +17,4 @@ Practicing the basics of creating a simple web page using HTML, CSS, JavaScript
 ### Task 3
 ![output1](https://github.com/chandana96k/web-designing-clg-internship/assets/106166200/6b771550-31d6-45b9-af9b-daa2a34fe209)
 
-<img width="700" alt="op" src="https://github.com/chandana96k/web-designing-clg-internship/assets/106166200/f2bf43f2-a09a-4f6f-8402-4933a03c71df">
+<img width="900" alt="op" src="https://github.com/chandana96k/web-designing-clg-internship/assets/106166200/f2bf43f2-a09a-4f6f-8402-4933a03c71df">
